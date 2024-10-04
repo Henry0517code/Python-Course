@@ -9,7 +9,7 @@
   - [Quick Start](https://code.visualstudio.com/docs/python/python-quick-start)
 - Set up Jupyter Notebook
   - Extensions -> Type 'Jupyter' -> Install
-  - [Optional Reading](https://code.visualstudio.com/docs/datascience/jupyter-notebooks
+  - [Optional Reading](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 ### Backup
 - Colab
