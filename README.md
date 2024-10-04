@@ -1,9 +1,8 @@
 # Python Beginner Course Schedule
 
 ## 0. Setting Up Your Programming Environment
-- Install Python 3.10
-  - [Windows](https://www.python.org/downloads/)
-  - [Mac](https://www.python.org/downloads/macos/)
+- Install Python 3.12
+  - [Link](https://www.python.org/downloads/release/python-3127/)
 - Set up Vscode
   - [Vscode](https://code.visualstudio.com/download)
   - [Quick Start](https://code.visualstudio.com/docs/python/python-quick-start)
