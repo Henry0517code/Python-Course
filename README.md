@@ -1,10 +1,10 @@
 # Python Beginner Course
-Instructor <br> **Henry**
+Lectured by Henry
 
 ## Course Format
 
 1. **Course Delivery**: The course will be conducted through **Google Meet**. 
-2. **Learning Materials**: We’ll dive into key concepts using a textbook, and you’ll get plenty of hands-on coding practice using **Jupyter Notebooks**.
+2. **Learning Materials**: We’ll dive into key concepts using a textbook, and you’ll get plenty of hands-on coding practice using **Jupyter Notebooks**. 
 3. **Daily Exercises**: At the end of each class, you’ll have a fun **exercise** to help you review and wrap up the day’s learning.
 4. **Assignments**: After class, you’ll receive **1 to 3 assignments** to work on. These can be submitted through [**Google Drive**](https://drive.google.com/drive/folders/1r-KcMK5K-gwQklVu7e33sAiFOadtNBLD?usp=sharing).
 5. **Review**: We’ll go over the assignments together at the **beginning of the next class**, so you can ask questions and make sure everything makes sense.
@@ -25,7 +25,7 @@ Instructor <br> **Henry**
   - [VSCode Python Quick Start Guide](https://code.visualstudio.com/docs/python/python-quick-start)
 
 - **Jupyter Notebook**
-  - Go to Extensions in VSCode -> Search for 'Jupyter' -> Install
+  - Go to Extensions in VSCode -> Search for `Jupyter` -> Install
   - [VSCode Jupyter Notebook Guide](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) (Optional)
   - [Jupyter Notebook Markdown Guide](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 
