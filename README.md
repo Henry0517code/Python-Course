@@ -1,5 +1,9 @@
 # Python Beginner Course
-Lectured by Henry
+Henry
+
+## Announcement 🔥
+
+[Assignment 1 (10/4)](Assignments/assg1.ipynb) 👈 Click & Download
 
 ## Course Format
 
