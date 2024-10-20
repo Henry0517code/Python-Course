@@ -4,7 +4,8 @@ Henry
 ## Announcement
 
 [Assignment 1 (10/4)](Assignments/assg1.ipynb)<br>
-[Assignment 2 (10/11)](Assignments/assg2.ipynb)
+[Assignment 2 (10/11)](Assignments/assg2.ipynb)<br>
+[Assignment 3 (10/18)](Assignments/assg3.ipynb)
 
 ## Course Format
 
