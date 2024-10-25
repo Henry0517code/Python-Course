@@ -31,40 +31,47 @@ You can follow a guide like this [video tutorial](https://www.youtube.com/watch?
 ### Terminal in VSCode
 1.	Click on the View menu at the top of the screen.
 2.	Select Terminal from the dropdown, or use the shortcut:
-•	Ctrl + ` on Windows and Linux.
-•	Cmd + ` on macOS.
+
+- Ctrl + ` on Windows and Linux.
+- Cmd + ` on macOS.
 
 
 ### Folder Hierarchy and Navigation
 The terminal allows you to interact with your computer’s file system via text commands.
 
-#### Key Commands:
-- **pwd**: Displays the current folder you’re in (Print Working Directory).
-  ```bash
-  pwd
+Here’s the updated version with Windows Command Prompt commands:
+
+---
+
+#### Key Commands (Windows Command Prompt):
+- **cd**: Displays the current folder you’re in (Change Directory). It also changes the directory (folder) you're in.
+
+  To display current directory:
+  ```cmd
+  cd
   ```
 
-- **cd**: Changes the directory (folder) you’re in.
-  ```bash
+  To change to a specific directory:
+  ```cmd
   cd <folder-name>
   ```
 
   Example:
-  ```bash
-  cd Documents/Projects
+  ```cmd
+  cd Documents\Projects
   ```
 
-- **ls** (or **dir** on Windows): Lists all files and folders in your current directory.
-  ```bash
-  ls
+- **dir**: Lists all files and folders in your current directory.
+  ```cmd
+  dir
   ```
 
 *Tip*: To move to a parent folder, use:
-```bash
+```cmd
 cd ..
 ```
 
----
+--- 
 
 ## 3. What’s `pip`?
 
