@@ -8,6 +8,7 @@ Henry
 [Assignment 3 (10/18)](Assignments/assg3.ipynb)<br>
 [Supplementary Materials (10/25)](Handouts/CLI_beginners.md)<br>
 [Assignment 4 (11/1)](Assignments/assg4.ipynb)<br>
+[Assignment 5 (11/8)](Assignments/assg5.ipynb)<br>
 
 ## Course Format
 
