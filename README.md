@@ -8,7 +8,7 @@ Henry
 [Assignment 1 (10/4)](Assignments/Fri/assg1.ipynb)<br>
 [Assignment 2 (10/11)](Assignments/Fri/assg2.ipynb)<br>
 [Assignment 3 (10/18)](Assignments/Fri/assg3.ipynb)<br>
-[Supplementary Materials (10/25)](Handouts/CLI_beginners.md)<br>
+[Supplementary Materials (10/25)](Handouts/cmd_beginners.md)<br>
 [Assignment 4 (11/1)](Assignments/Fri/assg4.ipynb)<br>
 [Assignment 5 (11/8)](Assignments/Fri/assg5.ipynb)<br>
 [Assignment 6 (11/22)](Assignments/Fri/assg6.ipynb)<br>
