@@ -13,6 +13,7 @@ Henry
 [Assignment 5 (11/8)](Assignments/Fri/assg5.ipynb)<br>
 [Assignment 6 (11/22)](Assignments/Fri/assg6.ipynb)<br>
 [Assignment 7 (11/29)](Assignments/Fri/assg7.ipynb)<br>
+[Command Line Basics Review (11/29)](Handouts/cmd_beginners.md)<br>
 
 ### Sat. (13:00 - 15:00)
 
