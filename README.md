@@ -12,6 +12,7 @@ Henry
 [Assignment 4 (11/1)](Assignments/Fri/assg4.ipynb)<br>
 [Assignment 5 (11/8)](Assignments/Fri/assg5.ipynb)<br>
 [Assignment 6 (11/22)](Assignments/Fri/assg6.ipynb)<br>
+[Assignment 7 (11/29)](Assignments/Fri/assg7.ipynb)<br>
 
 ### Sat. (13:00 - 15:00)
 
@@ -37,12 +38,12 @@ Henry
 
 - **Jupyter Notebook**
   - Go to Extensions in VSCode -> Search for `Jupyter` -> Install
-  - [VSCode Jupyter Notebook Guide](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) (Optional)
+  - [VSCode Jupyter Notebook Guide](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
   - [Jupyter Notebook Markdown Guide](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 
-#### Backup Options
+
 
 - **Google Colab**
   - Go to Google and search for "Colab" -> Create a new notebook
-  - [Google Colab Guide](https://colab.research.google.com/drive/16pBJQePbqkz3QFV54L4NIkOn1kwpuRrj) (Optional)
+  - [Google Colab Guide](https://colab.research.google.com/drive/16pBJQePbqkz3QFV54L4NIkOn1kwpuRrj)
 

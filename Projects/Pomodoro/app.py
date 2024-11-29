@@ -3,12 +3,11 @@ from tkinter import ttk, messagebox
 import threading
 import webbrowser
 
-
 class PomodoroApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Pomodoro Timer")
-        self.root.geometry("400x250")
+        self.root.title("Meow")
+        self.root.geometry("600x250")
         self.root.resizable(False, False)
 
         # Timer variables
