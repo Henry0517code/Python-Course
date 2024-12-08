@@ -14,9 +14,9 @@ Henry
 [Assignment 6 (11/22)](Assignments/Fri/assg6.ipynb)<br>
 [Assignment 7 (11/29)](Assignments/Fri/assg7.ipynb)<br>
 [Command Line Basics Review (11/29)](Handouts/cmd_beginners.md)<br>
+[Assignment 8 (12/6)](Assignments/Fri/assg8.ipynb)<br>
 
 ### Sat. (13:00 - 15:00)
-
 
 ## Course Format
 
