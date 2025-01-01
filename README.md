@@ -16,6 +16,7 @@ Henry
 [Command Line Basics Review (11/29)](Handouts/cmd_beginners.md)<br>
 [Assignment 8 (12/6)](Assignments/Fri/assg8.ipynb)<br>
 [Assignment 9 (12/20)](Assignments/Fri/assg9.ipynb)<br>
+[Assignment 10 (12/27)](Assignments/Fri/assg10.ipynb)<br>
 
 ### Sat. (13:00 - 15:00)
 
