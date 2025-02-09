@@ -3,22 +3,7 @@ Henry
 
 ## Announcement
 
-### Fri. (16:00 - 17:30)
 
-[Assignment 1 (10/4)](Assignments/Fri/assg1.ipynb)<br>
-[Assignment 2 (10/11)](Assignments/Fri/assg2.ipynb)<br>
-[Assignment 3 (10/18)](Assignments/Fri/assg3.ipynb)<br>
-[Supplementary Materials (10/25)](Handouts/cmd_beginners.md)<br>
-[Assignment 4 (11/1)](Assignments/Fri/assg4.ipynb)<br>
-[Assignment 5 (11/8)](Assignments/Fri/assg5.ipynb)<br>
-[Assignment 6 (11/22)](Assignments/Fri/assg6.ipynb)<br>
-[Assignment 7 (11/29)](Assignments/Fri/assg7.ipynb)<br>
-[Command Line Basics Review (11/29)](Handouts/cmd_beginners.md)<br>
-[Assignment 8 (12/6)](Assignments/Fri/assg8.ipynb)<br>
-[Assignment 9 (12/20)](Assignments/Fri/assg9.ipynb)<br>
-[Assignment 10 (12/27)](Assignments/Fri/assg10.ipynb)<br>
-
-### Sat. (13:00 - 15:00)
 
 ## Course Format
 
