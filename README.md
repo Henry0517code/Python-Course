@@ -4,10 +4,7 @@ Henry
 
 ## Announcement
 
-1. Finish [Assignment 1](./Assignments/assg1.ipynb).
-2. Optional Readings:
-  - [VSCode Jupyter Notebook Guide](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
-  - [Jupyter Notebook Markdown Guide](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
+1. Finish [Assignment 2](./Assignments/assg2.ipynb).
 
 ## Course Format
 
