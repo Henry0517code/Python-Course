@@ -4,7 +4,7 @@ Henry
 
 ## Announcement
 
-1. Finish [Assignment 2](./Assignments/assg2.ipynb).
+1. Finish [Assignment 3](./Assignments/assg3.ipynb).
 
 ## Course Format
 
