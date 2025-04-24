@@ -4,7 +4,11 @@ Henry
 
 ## Announcement
 
-1. Finish [Assignment 3](./Assignments/assg3.ipynb).
+### Course on Saturday
+1. Finish [Assignment 3](./Assignments/Sat/assg3.ipynb).
+
+### Course on Tuesday
+1. Finish [Assignment 1](./Assignments/Tue/assg1.ipynb)
 
 ## Course Format
 
