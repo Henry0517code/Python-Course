@@ -1,141 +1,175 @@
-# How to Setup Python Path and Run a Python Project
+---
+marp: true
+theme: default
+paginate: true
+---
 
-## 1. Setup Python Path in PowerShell
+<!-- slide: title -->
 
-### Change Environment Variable (Windows)
-Environment variables help your system locate Python when you type `python` in the terminal.
-
-#### Steps:
-1. Open PowerShell and check if Python is installed by typing:
-   ```bash
-   python --version
-   ```
-   If not recognized, you'll need to add Python to your system's environment path.
-2. Search for "Environment Variables" in Windows and click **Edit the system environment variables**.
-3. Click **Environment Variables** in the dialog box.
-4. Under **System Variables**, find `Path` and click **Edit**.
-5. Click **New** and add the path to your Python installation (usually something like `C:\PythonXX` or `C:\Users\<YourName>\AppData\Local\Programs\Python\PythonXX`).
-6. Click **OK** to save everything.
-
-For more detailed help, follow a tutorial like [this video](https://www.youtube.com/watch?v=9QrDn_hRSGs).
-
-### Re-download Python (if needed)
-If Python isn’t installed, visit [python.org](https://www.python.org) and download the latest version for your OS. During installation, ensure you **check the box** that says "Add Python to PATH."
-
-You can follow a guide like this [video tutorial](https://www.youtube.com/watch?v=_ErLKQ-tJQ8).
+# 🚀 Python Project Quick‑Start  
+### From install to running code in minutes
 
 ---
 
-## 2. A Brief Introduction to the Terminal
+## Why This Guide?
 
-### Terminal in VSCode
-1.	Click on the View menu at the top of the screen.
-2.	Select Terminal from the dropdown, or use the shortcut:
-
-- Ctrl + ` on Windows and Linux.
-- Cmd + ` on macOS.
-
-
-### Folder Hierarchy and Navigation
-The terminal allows you to interact with your computer’s file system via text commands.
-
-Here’s the updated version with Windows Command Prompt commands:
+- Get a new Python project working **fast**  
+- Same steps for **Windows / macOS / Linux**  
+- Slides structured so you can present or follow along
 
 ---
 
-#### Key Commands (Windows Command Prompt):
-- **cd**: Displays the current folder you’re in (Change Directory). It also changes the directory (folder) you're in.
+## 1️⃣ Check Python
 
-  To display current directory:
-  ```cmd
-  cd
-  ```
-
-  To change to a specific directory:
-  ```cmd
-  cd <folder-name>
-  ```
-
-  Example:
-  ```cmd
-  cd Documents\Projects
-  ```
-
-- **dir**: Lists all files and folders in your current directory.
-  ```cmd
-  dir
-  ```
-
-*Tip*: To move to a parent folder, use:
-```cmd
-cd ..
-```
-
---- 
-
-## 3. What’s `pip`?
-
-`pip` is a package manager for Python. It allows you to install and manage third-party libraries.
-
-#### Common `pip` Commands:
-- To install a package:
-  ```bash
-  pip install <package-name>
-  ```
-
-  Example:
-  ```bash
-  pip install numpy
-  ```
-
-- To check if `pip` is installed:
-  ```bash
-  pip --version
-  ```
-
-If `pip` isn’t installed, follow [this guide](https://pip.pypa.io/en/stable/installation/) to set it up.
-
----
-
-## 4. General Steps to Run a Python Project
-
-### Step 1: Download or Clone the Project
-- If the project is hosted on GitHub, copy the repository URL and use:
-  ```bash
-  git clone <repository-url>
-  ```
-  Alternatively, download the project as a `.zip` file and extract it.
-
-### Step 2: Install Python
-- Make sure Python is installed. You can check by typing:
-  ```bash
-  python --version
-  ```
-
-- If Python is not installed, download and install it from [python.org](https://www.python.org).
-
-### Step 3: Open a Terminal
-- On **Windows**: Open **PowerShell**.
-- On **macOS/Linux**: Open the **Terminal** application.
-
-### Step 4: Navigate to the Project Folder
-Use the `cd` command to change into the directory where the project files are stored.
-
-Example:
 ```bash
-cd Downloads/YourProjectFolder
+python --version
+pip --version
 ```
 
-### Step 5: Install Required Libraries
-Most Python projects come with a `requirements.txt` file listing all the needed libraries. To install them, type:
+- **✅ Output appears:** jump ahead  
+- **❌ “command not found”:** install Python next
+
+---
+
+## 2️⃣ Install / Re‑install Python
+
+1. Download from **python.org/downloads** (3.x 64‑bit).  
+2. **Windows**: tick “Add Python to PATH”.  
+3. **macOS**: use the official pkg or **brew install python**.  
+4. **Linux**: `sudo apt install python3 python3-pip`.
+
+> Re‑open terminal to reload PATH.
+
+---
+
+## 3️⃣ Add Python to PATH (Windows)
+
+1. Search **“Environment Variables”** → *Edit the system…*  
+2. System Variables → **Path** → *Edit*  
+3. *New* → paste install folder, e.g.  
+   `C:\Users\<YOU>\AppData\Local\Programs\Python\Python312\`  
+4. *OK* × 3 → reopen PowerShell  
+5. Verify: `python --version`
+
+---
+
+## 4️⃣ Open a Terminal
+
+| Editor | Shortcut |
+|--------|----------|
+| VS Code | **Ctrl/⌘ + \`** |
+| PyCharm | **Alt + F12** |
+
+Or launch **PowerShell / cmd / Terminal.app** directly.
+
+---
+
+## 5️⃣ Navigate the Filesystem
+
+```bash
+cd project_folder      # go in
+cd ..                  # up one
+dir          # Windows list
+ls -la       # macOS/Linux list
+```
+
+Tip: Drag‑drop a folder into terminal to auto‑paste its path.
+
+---
+
+## 6️⃣ `pip` Essentials
+
+| Task                 | Command                       |
+|----------------------|-------------------------------|
+| Install a library    | `pip install numpy`           |
+| Upgrade a library    | `pip install -U numpy`        |
+| Show installed pkgs  | `pip list`                    |
+| Upgrade pip itself   | `python -m pip install -U pip`|
+
+---
+
+## 7️⃣ (Recommended) Virtual Environment
+
+```bash
+python -m venv .venv
+# Windows
+.venv\Scripts\activate
+# macOS/Linux
+source .venv/bin/activate
+```
+
+The prompt shows **(.venv)**.  
+Install packages **inside** the env for project isolation.
+
+---
+
+## 8️⃣ Get the Code
+
+```bash
+# GitHub – preferred
+git clone https://github.com/user/repo.git
+# or download ZIP & extract
+```
+
+Move into the folder:
+
+```bash
+cd repo
+```
+
+---
+
+## 9️⃣ Install Requirements
+
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 6: Run the Program
-Typically, the main Python file is called something like `main.py` or `app.py`. To run it, type:
+If you see *ERROR: wheel not found*, first run
+
 ```bash
-python main.py
+python -m pip install -U pip setuptools wheel
 ```
 
-*Note*: If the project has additional instructions, they will usually be in a `README.md` file. Be sure to read it for any specific steps.
+---
+
+## 🔟 Run the Program
+
+Common entry points:
+
+```bash
+python main.py
+python -m package_name
+streamlit run app.py
+```
+
+Read **README.md** for project‑specific commands or env vars (e.g. `FLASK_APP=app.py`).
+
+---
+
+## 1️⃣1️⃣ Common Errors & Fixes
+
+| Error | Likely Cause | Quick Fix |
+|-------|--------------|-----------|
+| `ModuleNotFoundError` | package not installed / wrong env | Activate venv & `pip install` |
+| `PermissionError` | file in use / admin rights | Close app or run as admin |
+| `SyntaxError: invalid syntax` | using Python 2 vs 3 | Run with `python3` |
+
+---
+
+## 1️⃣2️⃣ Next Steps & Resources
+
+- **Python Docs:** docs.python.org  
+- **pip User Guide:** pip.pypa.io  
+- **VS Code Python Ext.:** aka.ms/python-vscode  
+- **More CLI Help:** `python -h`, `pip -h`, `git help`
+
+---
+
+## 🎉 You’re Ready!
+
+Run code, experiment, break things & fix them.  
+**Happy Pythoning!**
+
+---
+
