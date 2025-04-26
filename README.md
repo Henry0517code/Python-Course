@@ -4,6 +4,8 @@ Henry
 
 ## Announcement
 
+https://www.kaggle.com/code/laijaihong/deepface/edit
+
 ### Course on Saturday
 1. Finish [Assignment 3](./Assignments/Sat/assg3.ipynb).
 
