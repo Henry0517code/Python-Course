@@ -4,11 +4,7 @@ Henry
 
 ## Announcement
 
-### Course on Saturday
-
-### Course on Tuesday
-1. Finish [Assignment 2](./Assignments/Tue/assg2.ipynb)
-2. Find a fun python library and implement it in the handout notebook.
+[What's a LLM](https://colab.research.google.com/drive/1WiiuIwhsAIdOALXkxhMVsXtYO5Su6_6g?usp=sharing)
 
 ## Course Format
 
