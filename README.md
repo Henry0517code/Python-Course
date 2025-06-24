@@ -6,6 +6,9 @@ Henry
 
 [What's a LLM](https://colab.research.google.com/drive/1WiiuIwhsAIdOALXkxhMVsXtYO5Su6_6g?usp=sharing)
 
+### Ray
+[Assignment 1](Assignments/Ray/assg1.ipynb)
+
 ## Course Format
 
 1. **Course Delivery**: The course will be conducted through **Google Meet**. 
