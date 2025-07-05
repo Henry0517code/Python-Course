@@ -5,6 +5,7 @@ Henry
 ## Announcement
 
 [What's a LLM](https://colab.research.google.com/drive/1WiiuIwhsAIdOALXkxhMVsXtYO5Su6_6g?usp=sharing)
+[Huggingface Pipeline](https://colab.research.google.com/drive/1bAG86qpXp7C86bzYySiXTh0YlcTukeI2?usp=sharing)
 
 ### Ray
 [Assignment 1](Assignments/Ray/assg1.ipynb)
