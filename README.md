@@ -9,7 +9,7 @@ Henry
 [Huggingface Pipeline](https://colab.research.google.com/drive/1bAG86qpXp7C86bzYySiXTh0YlcTukeI2?usp=sharing)
 
 ### Ray
-[Assignment 1](Assignments/Ray/assg1.ipynb)
+[Assignment 2](Assignments/Ray/assg2.ipynb)
 
 ## Course Format
 
