@@ -9,7 +9,10 @@ Henry
 [Huggingface Pipeline](https://colab.research.google.com/drive/1bAG86qpXp7C86bzYySiXTh0YlcTukeI2?usp=sharing)
 
 ### Ray
-[Assignment 2](Assignments/Ray/assg2.ipynb)
+
+- [Assignment 2](Assignments/Ray/assg2.ipynb)
+
+- 🧪 Class Exercise: Create an interactive app that lets the user provide a context and a question, and returns the answer using the Hugging Face question-answering pipeline.
 
 ## Course Format
 
