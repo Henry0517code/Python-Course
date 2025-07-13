@@ -10,9 +10,12 @@ Henry
 
 ### Ray
 
-- [Assignment 2](Assignments/Ray/assg2.ipynb)
+- [Assignment 3](Assignments/Ray/assg3.ipynb)
 
-- 🧪 Class Exercise: Create an interactive app that lets the user provide a context and a question, and returns the answer using the Hugging Face question-answering pipeline.
+- Project checkpoint1:
+  - Define the problem you want to solve.
+  - Survey the available tools from Huggingface Pipelines and Streamlit.
+  - Try each tool separately and see how they work.
 
 ## Course Format
 
