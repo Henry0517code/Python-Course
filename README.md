@@ -10,7 +10,7 @@ Henry
 
 ### Ray
 
-- [Assignment 3](Assignments/Ray/assg3.ipynb)
+- [Assignment 4](Assignments/Ray/assg4.ipynb)
 
 - Project checkpoint1:
   - Define the problem you want to solve.
