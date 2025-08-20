@@ -10,12 +10,7 @@ Henry
 
 ### Ray
 
-- [Assignment 5](Assignments/Ray/assg5.ipynb)
-
-- Project checkpoint1:
-  - Define the problem you want to solve.
-  - Survey the available tools from Huggingface Pipelines and Streamlit.
-  - Try each tool separately and see how they work.
+- [Assignment 6](Assignments/Ray/assg6.ipynb)
 
 ## Course Format
 
